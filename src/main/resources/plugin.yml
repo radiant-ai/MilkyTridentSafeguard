@@ -1,0 +1,4 @@
+name: MilkyTridentSafeguard
+version: '${project.version}'
+main: fun.milkyway.milkytridentsafeguard.MilkyTridentSafeguard
+api-version: 1.18
